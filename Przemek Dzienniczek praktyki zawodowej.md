@@ -6,8 +6,8 @@
 | **Dzień**     | **Godziny pracy od: do:** | **Liczba godzin pracy** | **Wykonane prace** |
 |---------------|---------------------------|-------------------------|--------------------|
 | Poniedziałek  | 8 -16                      | 8                       | nauka języka Markdown|
-| Wtorek        | 8 -16                      | 8                       | wybranie odpowiedniego Hosta oraz domeny do projektu |
-| Środa         | 8 -16                      | 8                       | ...                |
+| Wtorek        | 8 -16                      | 8                       | wybranie odpowiedniego Hosta oraz domeny do projektu oraz podstawy FileZilla i FTP |
+| Środa         | 8 -16                      | 8                       | Kontynuacja nauki FTP i FileZilla oraz tworzenie strony internetowej|
 | Czwartek      | ... - ...                  | ...                       | ...                |
 | Piątek        | ... - ...                  | ...                     | ...                |
 
