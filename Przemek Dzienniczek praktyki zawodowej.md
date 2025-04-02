@@ -25,9 +25,9 @@
 |---------------|---------------------------|-------------------------|--------------------|
 | Poniedziałek  | 8 -16                      | 8                       | Używamy aplikacji Doxygen do wygenerowania dokumentacji kodu jako dokument pdf oraz strony www |
 | Wtorek        | 8 - 16                      | 8                       | Tworzenie aplikacji MVC oraz umieszczanie jej na naszym hostingu |
-| Środa         | 8 - 16                      | 8                       | Poprawianie wykonanych dotychczas projektów z wykorzystaniem wtyczki internetowej lighthouse |
-| Czwartek      | 8 - 16                 | 8                       | ... |
-| Piątek        | 8 - 16                  | 8                     | ... |
+| Środa         | 8 - 16                      | 8                       | Optymalizacja aplikacji z wykorzystaniem wtyczki Lighthouse – poprawa wydajności, dostępności i SEO. Usunięcie problemów z błędami oraz wprowadzenie sugestii wynikających z analizy Lighthouse. |
+| Czwartek      | 8 - 16                 | 8                       | Implementacja dodatkowych funkcji do aplikacji MVC. Testowanie aplikacji na różnych przeglądarkach i urządzeniach. |
+| Piątek        | 8 - 16                  | 8                     | Generowanie dokumentacji kodu za pomocą Doxygen, wygenerowanie dokumentu PDF oraz strony www z dokumentacją. Uzupełnianie brakujących komentarzy w kodzie i dokumentowanie poszczególnych klas oraz metod. |
 ------------
 
 **Data, pieczęć i podpis zakładowego opiekuna praktyk**
