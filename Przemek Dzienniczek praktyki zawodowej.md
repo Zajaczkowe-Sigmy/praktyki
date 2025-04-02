@@ -24,8 +24,8 @@
 | **Dzień**     | **Godziny pracy od: do:** | **Liczba godzin pracy** | **Wykonane prace** |
 |---------------|---------------------------|-------------------------|--------------------|
 | Poniedziałek  | 8 -16                      | 8                       | Używamy aplikacji Doxygen do wygenerowania dokumentacji kodu jako dokument pdf oraz strony www |
-| Wtorek        | 8 - 16                      | 8                       | Poprawianie wykonanych dotychczas projektów z wykorzystaniem wtyczki internetowej lighthouse |
-| Środa         | 8 - 16                      | 8                       | ... |
+| Wtorek        | 8 - 16                      | 8                       | Tworzenie aplikacji MVC oraz umieszczanie jej na naszym hostingu |
+| Środa         | 8 - 16                      | 8                       | Poprawianie wykonanych dotychczas projektów z wykorzystaniem wtyczki internetowej lighthouse |
 | Czwartek      | 8 - 16                 | 8                       | ... |
 | Piątek        | 8 - 16                  | 8                     | ... |
 ------------
