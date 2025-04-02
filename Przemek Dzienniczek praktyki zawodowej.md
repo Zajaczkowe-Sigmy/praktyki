@@ -5,8 +5,7 @@
 
 | **Dzień**     | **Godziny pracy od: do:** | **Liczba godzin pracy** | **Wykonane prace** |
 |---------------|---------------------------|-------------------------|--------------------|
-| Poniedziałek  | 8 - 16                      | 8                       | Przygotowanie stanowiska roboczego oraz omówienie zasad odbywania praktyk.
-Wprowadzenie do języka MarkDown, środowiska Github, założenie indywidualnych kont github oraz wspólnego konta GIT.|
+| Poniedziałek  | 8 - 16                      | 8                       | Przygotowanie stanowiska roboczego oraz omówienie zasad odbywania praktyk. Wprowadzenie do języka MarkDown, środowiska Github, założenie indywidualnych kont github oraz wspólnego konta GIT.|
 | Wtorek        | 8 - 16                      | 8                       | Wybranie optymalnego na potrzeby praktyk  hostingu oraz domeny do projektu. Wybrano CyberFolks. Przygotowanie środowiska do programowania (Visual StudioCode / XAMPP/ GIMP) Podstawy obsługi FileZilla oraz specyfikacja połączenia domeną poprzez FTP.  Wdrożono certyfikat bezpieczeństwa dla wdrażanej domeny i utworzono indywidualne konta na potrzeby połączenia FTP. |
 | Środa         | 8 - 16                      | 8                       | Kontynuacja praz z wykorzystaniem  FileZilla i połaczenia FTP. Projektowanie wyglądu strony internetowej przy wykorzystaniu języka HTML/CSS/JS.|
 | Czwartek      | 8 - 16                  | 8                       | Programowanie własnej podstrony internetowej w językach HTML JavaScript i CSS. Wykonałem banery i grafiki w GIMP dostosowując je do wytycznych UX/UI. Sprawdziłem poprawność kodu HTML i CSS za pomocą W3C Validator. Przeprowadzono refactoring kodu optymalizując linki do graficznych elementów strony uwzględniając lokalną strukturę plików i zależności.|
